@@ -94,10 +94,6 @@ I’m a full-stack developer from Belgium who love making amazing things✨ Feel
     </tr>
 </table>
 
-## Previous experiences
-
-<a href="https://cherrypulp.com/" target="_blank"><img src="https://anthonypauwels.be/logos/cherrypulp.png" width="100" height="100" title="Cherry Pulp" alt="Cherry Pulp"/></a>
-
 <!--
 **anthonypauwels/anthonypauwels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
