@@ -1,6 +1,6 @@
 # Hello there 👋 I'm Anthony
 
-I’m a full-stack developer from Belgium who love making amazing things ✨ Feel free to contact me if you have a project in mind 💡
+I’m a full-stack developer from Belgium who love making amazing things✨ Feel free to contact me if you have a project in mind💡
 
 <a href="https://www.linkedin.com/in/anthonypauwels/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn"/></a>
 <a href="http://codepen.io/anthonypauwels/" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen" alt="Codepen"/></a>
@@ -38,7 +38,7 @@ I’m a full-stack developer from Belgium who love making amazing things ✨ Fee
     </tr>
     <tr>
         <td>
-            Framework
+            Frameworks
         </td>
         <td>
             <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/symfony/symfony-original.svg" width="40" height="40" title="Symfony" alt="Symfony"/>
