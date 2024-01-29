@@ -34,6 +34,7 @@ I’m a full-stack developer from Belgium who love making amazing things✨ Feel
             <img src="https://github.com/devicons/devicon/blob/v2.15.0/icons/angularjs/angularjs-original.svg" width="40" height="40" title="AngularJS" alt="AngularJS"/>
             <img src="https://github.com/devicons/devicon/blob/v2.15.0/icons/threejs/threejs-original.svg" width="40" height="40" title="ThreeJS" alt="ThreeJS"/>
             <img src="https://github.com/devicons/devicon/blob/v2.15.0/icons/sass/sass-original.svg" width="40" height="40" title="SCSS/SASS" alt="SCSS/SASS"/>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" title="Tailwind" alt="Tailwind"/>
         </td>
     </tr>
     <tr>
